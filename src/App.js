@@ -10,7 +10,7 @@ function App(props) {
       <Message name="Bjorn" birthYear="1985"/>
       <Message name="Martin" birthYear="1996"/>
       <Message name="Johan" birthYear="1999"/>
-      <UserInfo title="Bongobongo" description="A nice way to sell things!"/>
+      <UserInfo title="Bongobongo" description="A nice way to sell things again!"/>
 
 
     </div>
